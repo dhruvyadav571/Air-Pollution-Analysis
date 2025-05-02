@@ -50,16 +50,14 @@ The full dashboard is available on **Tableau Public**:
 👉 [View Dashboard]] https://public.tableau.com/shared/72FHH4XW2?:display_count=n&:origin=viz_share_link
 
 ## 📝 Insights
-- The cities which exceeded PM2.5, PM10, and NO₂ limits in each year (2010–2019) are: London, Berlin, Paris, Warsaw, Madrid, Rome,
-  Vienna, Athens, Stockholm and Copenhagen. Most of the cities display upward trend in exceeding WHO limits from the line chart.
-- The cities with consistently lower pollution levels and cleanest air are: Helsinki, Tallinn, Reykjavik, Vaduz and Oslo.
-- In general, eastern countries in Europe have higher pollution levels as compared to western countries. Eastern countries exceed PM limits
-  because of pollution from industries and winter heating.
-- Paris, Berlin, StockHolm and London are cities with strict environmental regulations and showed improvement over the years.
-- In order to show latest available data, the year of 2019 was analyzed, the city of Tallinn had lowest levels of PM 2.5 and Kyiv with the
-  highest.
-- In terms of PM 10 levels, lowest was again of Tallinn and Sarajevo and as for NO2 levels, the lowest was of Bucharest and highest
-were found in Bern.
+- The The city which exceeded PM2.5, PM10, and NO₂ limits in each year (2011–2019) is Bern.
+- The cities which exceeded PM2.5, PM10, and NO₂ limits in the year 2019 are Amsterdam, Athens, Berlin, Bern, Bratislava, Budapest, Copenhagen, Helsinki, Lisboa, Ljubljana, London, Luxembourg, Madrid, Oslo, Paris, Prague, Riga, Roma, Sofia, Stockholm, Vilnius, Warszawa, Wien, Zagreb.
+- The average air pollution (PM2.5) during 2012–2019 has been conistently declining over the years and EU capital cities have shown improvements.
+- The number of cities which exceeded WHO limits in all pollutants during the years of 2013-19 are in the range of 19-26. The number of cities which exceeded WHO limits in PM 2.5 during the years of 2013-19 are in the range of 20-27.
+- The cities with lower pollution levels and cleanest air as compared to others in 2019 are: Tallinn, Stockholm, Helsinki, Oslo, Sofia and Luxembourg.
+- The capital cities in Western Europe have lower pollution than Eastern European capitals in 2019 in terms of PM 2.5 and PM 10 levels. The reasons are: stricter environmental regulations, more modernized industrial and transport infrastructure and usage of cleaner energy sources.
+- Paris, Berlin, StockHolm and London are cities with strict environmental regulations and showed positive improvement over the years. In 2019, they had lowest air pollution levels in all 3 pollutants as compared to other years.
+- In order to show latest available data, the year of 2019 was analyzed, the lowest levels of PM 2.5, PM 10 and NO2 were in city of Tallinn and highest levels of PM 2.5 were in Kyiv. In terms of PM 10 levels, the highest was of Sarajevo and as for NO2 levels it were found in Athens.
 
 ## Author
 - [Dhruv Yadav]
