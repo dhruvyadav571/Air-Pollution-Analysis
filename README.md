@@ -50,7 +50,7 @@ The full dashboard is available on **Tableau Public**:
 👉 [View Dashboard]] https://public.tableau.com/shared/72FHH4XW2?:display_count=n&:origin=viz_share_link
 
 ## 📝 Insights
-- The The city which exceeded PM2.5, PM10, and NO₂ limits in each year (2011–2019) is Bern.
+- The city which exceeded PM2.5, PM10, and NO₂ limits in each year (2011–2019) is Bern.
 - The cities which exceeded PM2.5, PM10, and NO₂ limits in the year 2019 are Amsterdam, Athens, Berlin, Bern, Bratislava, Budapest, Copenhagen, Helsinki, Lisboa, Ljubljana, London, Luxembourg, Madrid, Oslo, Paris, Prague, Riga, Roma, Sofia, Stockholm, Vilnius, Warszawa, Wien, Zagreb.
 - The average air pollution (PM2.5) during 2012–2019 has been conistently declining over the years and EU capital cities have shown improvements.
 - The number of cities which exceeded WHO limits in all pollutants during the years of 2013-19 are in the range of 19-26. The number of cities which exceeded WHO limits in PM 2.5 during the years of 2013-19 are in the range of 20-27.
