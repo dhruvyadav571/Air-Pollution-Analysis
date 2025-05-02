@@ -29,7 +29,7 @@ This project analyzes air pollution levels in European capital cities using real
 ## How to Run
 1. Load the CSV using Python
 2. Process and upload data to MySQL
-3. Run SQL queries from `SQL Queries.pdf'
+3. Run SQL queries from `SQL queries(1).pdf'
 4. Visualize in Tableau
 
 ## Sample Python Script
