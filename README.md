@@ -21,7 +21,7 @@ This project analyzes air pollution levels in European capital cities using real
 
 ## 📊 Key Analyses
 - **Pollution Trends** across time for each capital
-- **Cleanest Capitals** (below WHO limits)
+- **Cleanest Capitals** (comparison)
 - **Most Polluted Cities** (exceeding PM & NO₂ thresholds)
 - **Effect of Environmental Laws** in cities like Paris, Berlin, London, and Stockholm
 - **Comparison: Western vs Eastern Europe**
