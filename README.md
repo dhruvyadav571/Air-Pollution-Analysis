@@ -3,6 +3,7 @@ Project: Analysis of air pollution trends in European capital cities
 
 Goal: Analysing and interpreting air pollution trends and mean annual concentrations of three pollutants- PM2.5, PM10 and NO2 in European capital cities during the period 2017–2021
 Data source: WHO Ambient Air Quality Database (V6.1) - 2024
+
 Link: https://www.who.int/publications/m/item/who-ambient-air-quality-database-(update-jan-2024)
 
 Tools used: Python, MySQL, Tableau and Github
