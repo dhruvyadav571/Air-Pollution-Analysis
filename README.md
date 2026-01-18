@@ -1,6 +1,6 @@
 # Air-Pollution-Analysis
 
-# Analysis of air pollution trends in European capital cities
+## Analysis of air pollution trends in European capital cities
 
   Analysing and interpreting air pollution trends and mean annual concentrations of three pollutants- PM2.5, PM10 and NO2 in European capital cities during the period 2017–2021
 
