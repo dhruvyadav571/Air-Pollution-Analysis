@@ -39,6 +39,7 @@
   2. Check the python file from air pollution.py used for cleaning and filtering
   3. Run the SQL queries from pollution.sql
   4. Go to Tableau Story to understand and interact with maps and graphs
+
 Link to Tableau Story: https://public.tableau.com/views/AirPollutionTrendsinEuropeanCapitals20172021/AirPollutionTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Maintenance & contribution
