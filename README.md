@@ -35,13 +35,16 @@
 
 ## Key Insights
 
-The key insights and results of the analysis are in Tableau Story. Also, below there are images showing insights.
+The key insights and results of the analysis are in Tableau Story. Also, images Insights 1 and Insights 2 show insights.
+(*To access the Tableau Story file in the repository, Tableau Desktop Public Edition is needed*)
 
 Summary(during 2017–2021)
 1. Many capitals showed slow and progressive reduction in PM2.5
 2. The highest reductions were in NO2 concentrations, particularly during 2020
 3. Many cities pollutant concentrations were above WHO air quality guidelines
 4. The cities which progressed between the initial and final year are Bucharest, Prague, Vienna, Rome, Berlin and Vilnius.
+
+Image files: Insights 1.png , Insights 2.png
 
 ## How to start
 
