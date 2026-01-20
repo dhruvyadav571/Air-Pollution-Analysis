@@ -33,6 +33,16 @@
    3. Analysis is done with 75% temporal coverage for all three pollutants.
    4. Results are used for analysing trends, pollutant concentration and regions. They are not used for comparing countries and ranking the cities.
 
+## Key Insights
+
+The key insights and results of the analysis are in Tableau Story. Also, below there are images showing insights.
+
+Summary(during 2017–2021)
+1. Many capitals showed slow and progressive reduction in PM2.5
+2. The highest reductions were in NO2 concentrations, particularly during 2020
+3. Many cities pollutant concentrations were above WHO air quality guidelines
+4. The cities which progressed between the initial and final year are Bucharest, Prague, Vienna, Rome, Berlin and Vilnius.
+
 ## How to start
 
   1. Download the WHO dataset using the given link
